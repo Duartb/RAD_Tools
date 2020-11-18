@@ -110,6 +110,10 @@ a percentage of missing data better than [-m X] between their replicates.
 
 It also takes as an input a file with the names of the replicates for each individual (as shown in the **/Examples** directory).
 
+## XML2_best_hits
+
+Gets the best blast hits (in terms of e-value) from a XML2 blastn output file. 
+
 ## License
 
 Everything is under the GPLv3.
